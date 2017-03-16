@@ -1,8 +1,8 @@
 '''
 Developed by Miguel M. serrano www.miguelms.es
 
-https://api.telegram.org/bot<YOUR_TOKEN_HERE>/getUpdates    # 
-https://api.telegram.org/bot<YOUR_TOKEN_HERE>/sendMessage?chat_id=<CHAT_ID>&text=HELLO_WORLD  # 
+https://api.telegram.org/bot<YOUR_TOKEN_HERE>/getUpdates    # Get messages sent to bot of the last 24h and info of the user
+https://api.telegram.org/bot<YOUR_TOKEN_HERE>/sendMessage?chat_id=<CHAT_ID>&text=HELLO_WORLD  # reply to user
 '''
 
 import json
